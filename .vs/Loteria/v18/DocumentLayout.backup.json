@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\MyProjetos\\controleJogos\\back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60B953D2-E6BC-492D-BBA4-A7304F489915}|Loteria.Api\\Loteria.Api.csproj|d:\\myprojetos\\controlejogos\\back\\loteria.api\\controllers\\apostascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60B953D2-E6BC-492D-BBA4-A7304F489915}|Loteria.Api\\Loteria.Api.csproj|solutionrelative:loteria.api\\controllers\\apostascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DF7121B-F362-45D2-BA04-E4B8FF069625}|Solution Items{4DF7121B-F362-45D2-BA04-E4B8FF069625}|D:\\MyProjetos\\controleJogos\\back\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4DF7121B-F362-45D2-BA04-E4B8FF069625}|Solution Items{4DF7121B-F362-45D2-BA04-E4B8FF069625}|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF7121B-F362-45D2-BA04-E4B8FF069625}|Solution Items{4DF7121B-F362-45D2-BA04-E4B8FF069625}|D:\\MyProjetos\\controleJogos\\back\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4DF7121B-F362-45D2-BA04-E4B8FF069625}|Solution Items{4DF7121B-F362-45D2-BA04-E4B8FF069625}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60B953D2-E6BC-492D-BBA4-A7304F489915}|Loteria.Api\\Loteria.Api.csproj|d:\\myprojetos\\controlejogos\\back\\loteria.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60B953D2-E6BC-492D-BBA4-A7304F489915}|Loteria.Api\\Loteria.Api.csproj|solutionrelative:loteria.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B953D2-E6BC-492D-BBA4-A7304F489915}|Loteria.Api\\Loteria.Api.csproj|d:\\myprojetos\\controlejogos\\back\\loteria.api\\controllers\\apostascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B953D2-E6BC-492D-BBA4-A7304F489915}|Loteria.Api\\Loteria.Api.csproj|solutionrelative:loteria.api\\controllers\\apostascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80D784D9-2753-4583-A1E8-14DF6541AF6E}|Loteria.Infrastructure\\Loteria.Infrastructure.csproj|d:\\myprojetos\\controlejogos\\back\\loteria.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +70,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "D:\\MyProjetos\\controleJogos\\back\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "D:\\MyProjetos\\controleJogos\\back\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-31T20:59:23.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\MyProjetos\\controleJogos\\back\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\MyProjetos\\controleJogos\\back\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-31T20:57:55.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\MyProjetos\\controleJogos\\back\\Loteria.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Loteria.Infrastructure\\Data\\AppDbContext.cs",
@@ -75,20 +109,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ApostasController.cs",
               "DocumentMoniker": "D:\\MyProjetos\\controleJogos\\back\\Loteria.Api\\Controllers\\ApostasController.cs",
               "RelativeDocumentMoniker": "Loteria.Api\\Controllers\\ApostasController.cs",
               "ToolTip": "D:\\MyProjetos\\controleJogos\\back\\Loteria.Api\\Controllers\\ApostasController.cs",
               "RelativeToolTip": "Loteria.Api\\Controllers\\ApostasController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T19:11:12.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ConcursosController.cs",
               "DocumentMoniker": "D:\\MyProjetos\\controleJogos\\back\\Loteria.Api\\Controllers\\ConcursosController.cs",
               "RelativeDocumentMoniker": "Loteria.Api\\Controllers\\ConcursosController.cs",
@@ -101,13 +135,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MyProjetos\\controleJogos\\back\\Loteria.Api\\Program.cs",
               "RelativeDocumentMoniker": "Loteria.Api\\Program.cs",
               "ToolTip": "D:\\MyProjetos\\controleJogos\\back\\Loteria.Api\\Program.cs",
               "RelativeToolTip": "Loteria.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T18:28:54.004Z",
               "EditorCaption": ""
