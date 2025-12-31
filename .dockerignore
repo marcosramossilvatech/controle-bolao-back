@@ -1,0 +1,13 @@
+.vs/
+*.user
+*.suo
+*.vsidx
+*.vscode/
+bin/
+obj/
+.vs/
+bin/
+obj/
+node_modules/
+dist/
+.env

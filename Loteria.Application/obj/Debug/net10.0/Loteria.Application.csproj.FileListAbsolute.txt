@@ -1,0 +1,15 @@
+D:\MyProjetos\controleJogos\back\Loteria.Application\bin\Debug\net10.0\Loteria.Application.deps.json
+D:\MyProjetos\controleJogos\back\Loteria.Application\bin\Debug\net10.0\Loteria.Application.dll
+D:\MyProjetos\controleJogos\back\Loteria.Application\bin\Debug\net10.0\Loteria.Application.pdb
+D:\MyProjetos\controleJogos\back\Loteria.Application\bin\Debug\net10.0\Loteria.Domain.dll
+D:\MyProjetos\controleJogos\back\Loteria.Application\bin\Debug\net10.0\Loteria.Domain.pdb
+D:\MyProjetos\controleJogos\back\Loteria.Application\obj\Debug\net10.0\Loteria.Application.csproj.AssemblyReference.cache
+D:\MyProjetos\controleJogos\back\Loteria.Application\obj\Debug\net10.0\Loteria.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjetos\controleJogos\back\Loteria.Application\obj\Debug\net10.0\Loteria.Application.AssemblyInfoInputs.cache
+D:\MyProjetos\controleJogos\back\Loteria.Application\obj\Debug\net10.0\Loteria.Application.AssemblyInfo.cs
+D:\MyProjetos\controleJogos\back\Loteria.Application\obj\Debug\net10.0\Loteria.Application.csproj.CoreCompileInputs.cache
+D:\MyProjetos\controleJogos\back\Loteria.Application\obj\Debug\net10.0\Loteria..4D84A0F6.Up2Date
+D:\MyProjetos\controleJogos\back\Loteria.Application\obj\Debug\net10.0\Loteria.Application.dll
+D:\MyProjetos\controleJogos\back\Loteria.Application\obj\Debug\net10.0\refint\Loteria.Application.dll
+D:\MyProjetos\controleJogos\back\Loteria.Application\obj\Debug\net10.0\Loteria.Application.pdb
+D:\MyProjetos\controleJogos\back\Loteria.Application\obj\Debug\net10.0\ref\Loteria.Application.dll
